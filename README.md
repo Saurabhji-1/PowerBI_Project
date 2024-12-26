@@ -6,6 +6,9 @@
 
 
 This repository contains a Power BI project designed to provide comprehensive insights into the Covid-19 pandemic. The dashboard presents data visualizations to analyze and understand trends in Covid-19 cases and deaths over time, across locations, and by regions.
+![WHO-COVID-19-](https://github.com/user-attachments/assets/4ba64b60-d65c-44c9-97e9-4fcf510666c7)
+You can see this Dashboard through the this Bar-Code, You just need to scane this code from PowerBI Mobile Application. 
+
 
 ## 📊 Features
 ### The dashboard is divided into eight pages, each focusing on specific aspects of the Covid-19 data:
